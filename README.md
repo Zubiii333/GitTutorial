@@ -1,2 +1,3 @@
-# GitTutorial
-This is a test
+# Introduction to Git and GitHub
+
+## Hi, this is A K M Jubaeir Islam! Nice to have you here.
